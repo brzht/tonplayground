@@ -3,5 +3,18 @@
     "description": "Aegis trophy that belongs to Wings Gaming, The International 2016 Champions.",
     "image": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/87/MiniAegisValve2016.jpg/revision/latest?cb=20160729181129",
     "content_url": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/87/MiniAegisValve2016.jpg/revision/latest?cb=20160729181129",
-    "attributes": []
+    "attributes": [
+        {
+          "trait_type": "Hero",
+          "value": "Alaris"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Level",
+          "value": 1
+        }
+      ]
  }
