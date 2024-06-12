@@ -1,0 +1,12 @@
+{
+  "name": "Cucumber NFT",
+  "description": "The very cucumber NFT",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO-KWDD3gDw3txtEzx9zDrKlgp1t7CQxuBbA&s",
+  "content_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO-KWDD3gDw3txtEzx9zDrKlgp1t7CQxuBbA&s",
+  "attributes": [
+      {
+        "trait_type": "Order",
+        "value": 5
+      }
+    ]
+}

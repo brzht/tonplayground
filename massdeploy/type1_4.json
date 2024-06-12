@@ -1,0 +1,12 @@
+{
+    "name": "Tomato NFT",
+    "description": "The very tomato NFT",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Da6sduPCtZTFk0ZkO8LbL637SA0KKJSgNA&s",
+    "content_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Da6sduPCtZTFk0ZkO8LbL637SA0KKJSgNA&s",
+    "attributes": [
+        {
+          "trait_type": "Order",
+          "value": 4
+        }
+      ]
+ }
